@@ -4,7 +4,7 @@ This project implements a Generative Adversial Network (GAN) using PyTorch. GANs
 
 ## Dataset
 
-The dataset was obtained from [kaggle](). It consists of about 8,000 paintings of popular artists as mentioned in WikiArt. Folder structure of dataset folder is given below :
+The dataset was obtained from [kaggle](https://www.kaggle.com/code/isaklarsson/gan-art-generator/input). It consists of about 8,000 paintings of popular artists as mentioned in WikiArt. Folder structure of dataset folder is given below :
 
 ```
 data/
